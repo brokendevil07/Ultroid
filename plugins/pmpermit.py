@@ -15,7 +15,7 @@ from . import *
 # ========================= CONSTANTS =============================
 COUNT_PM = {}
 LASTMSG = {}
-PMPIC = "https://telegra.ph/file/94f6a4aeb21ce2d58dd41.jpg"
+PMPIC = "https://telegra.ph/file/a9b4877f5cbfdf54afe55.mp4"
 UNAPPROVED_MSG = """
 **PMSecurity of {}!**
 Please wait for me to respnd or you will be blocked and reported as spam!!
